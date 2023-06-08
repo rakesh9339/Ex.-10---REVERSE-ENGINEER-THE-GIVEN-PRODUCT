@@ -31,10 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![Uploading Screenshot 2023-06-08 140714.png…]()
+![Screenshot 2023-06-08 140714](https://github.com/rakesh9339/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121115650/18a89a08-1158-4848-bc05-fe89bf9f6d88)
+
 
 ### Output:
-![Uploading Screenshot 2023-06-08 141055.png…]()
+![Screenshot 2023-06-08 141055](https://github.com/rakesh9339/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121115650/0686ecd7-051b-4a09-a5af-1c579adc03e1)
+
 
 
 ### Name:Rakesh J.S
